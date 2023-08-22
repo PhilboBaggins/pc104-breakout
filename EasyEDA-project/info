@@ -1,0 +1,89 @@
+{
+  "uuid": "0a87c38d499dd302779e63790f2362c3",
+  "path": "Offline/PC104%20Breakout",
+  "name": "PC104 Breakout",
+  "content": "",
+  "created_at": "2023-01-13 15:08:07",
+  "updated_at": "2023-08-23 00:16:39",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "face5e0b94d21697592d5cc1d58c0ea9",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ef55ad8c00d44d9e9c861cb9234e511b": 1,
+        "05825923de2e4329a74459fe33ceafaa": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "PC/104 BOARD",
+          1,
+          "PC/104 BOARD",
+          "J1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "c1a36607580043fc81154537debb878c",
+            "uuid": "05825923de2e4329a74459fe33ceafaa"
+          }
+        ],
+        [
+          "HDR-M-2.54_2x8",
+          1,
+          "HDR-M-2.54_2X8",
+          "J2",
+          {
+            "BOM_Supplier Part": "C68234",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "31640b9c0b964cd8b0c5b945380a91fb",
+            "uuid": "ef55ad8c00d44d9e9c861cb9234e511b"
+          }
+        ]
+      ],
+      "updateTime": 1692713331,
+      "createTime": 1673582888,
+      "histories": [],
+      "created_at": "2023-01-13 15:08:08",
+      "updated_at": "2023-08-23 00:08:51"
+    },
+    {
+      "uuid": "4184fcf423a3302ea1f7555333dcf43b",
+      "puuid": "0a87c38d499dd302779e63790f2362c3",
+      "title": "PCB_PC104 Breakout",
+      "filename": "PCB_PC104 Breakout.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c1a36607580043fc81154537debb878c": 1,
+        "31640b9c0b964cd8b0c5b945380a91fb": 1
+      },
+      "BOM": [],
+      "updateTime": 1692713799,
+      "createTime": 1673584994,
+      "histories": [],
+      "created_at": "2023-01-13 15:43:14",
+      "updated_at": "2023-08-23 00:16:39"
+    }
+  ],
+  "sort": [],
+  "title": "PC104 Breakout",
+  "foldername": "PC104 Breakout",
+  "schfilename": "PC104 Breakout.json",
+  "schfilemtime": 1692713331191
+}
