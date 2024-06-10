@@ -2,8 +2,8 @@
 
 A breakout board for PC/104. So far only the power signals are broken out.
 
-![./Exports-v1.0/Top.svg](./Exports-v1.0/Top.svg)
-![./Exports-v1.0/Bottom.svg](./Exports-v1.0/Bottom.svg)
+![./Exports-v1.1/Top.svg](./Exports-v1.1/Top.svg)
+![./Exports-v1.1/Bottom.svg](./Exports-v1.1/Bottom.svg)
 
 TODO: Add photo of completed board
 
